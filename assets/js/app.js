@@ -1,4 +1,4 @@
-var address = 'http://localhost/app/server/';
+var address = 'http://localhost/php-backbone-app/server/';
 
 var App = {
     run: function(){ 
